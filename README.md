@@ -6,6 +6,8 @@ General interest in AI and machine learning have increased markedly in recent ye
 
 Numerous studies have been done on this by respected firms, most recent by PwC (see here - http://pwc.blogs.com/press_room/2017/03/up-to-30-of-existing-uk-jobs-could-be-impacted-by-automation-by-early-2030s-but-this-should-be-offse.html) which predicts that up to 30% of jobs could be impacted by automation by the 2030s. Another (see here - https://arstechnica.co.uk/business/2016/12/federal-report-ai-could-threaten-up-to-47-percent-of-jobs-in-two-decades/) predicts that up to 47% of jobs could disappear in two decades. So are they right? 
 
+![alt text](https://github.com/eddietheeagle1/future_of_AI/blob/master/AI-image_2.jpg)
+
 ### Progress of AI
 
 It is, of course, impossible to say definitely but it might be instructive to look at the last big change, the internet revolution, which has up-ended the distribution model of the majority of industries. In general, humans overestimate the short term impact of a new technology and underestimate the long term impact. In the mid-90s, the dotcom boom was in full swing and formed a classic bubble. Pets.com was a famous example, launching in August 1998, raising $300 million of venture capital and then going bust in November 2000. Now, it is hard to overstate the effect that the internet has had on all our lives. Hardly anyone predicted the smartphone revolution, the emergence of the highly-profitable business models that Facebook and Apple employ and the way that Amazon has completely changed the retail landscape. So, what does this tell us about the future of AI?
